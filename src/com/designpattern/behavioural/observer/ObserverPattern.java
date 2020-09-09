@@ -2,7 +2,7 @@ package com.designpattern.behavioural.observer;
 
 import java.util.ArrayList;
 import java.util.List;
-//
+
 public class ObserverPattern {
 	static class SachinCenturyNotifier {
 		List<SachinFan> sachinFans = new ArrayList<SachinFan>();

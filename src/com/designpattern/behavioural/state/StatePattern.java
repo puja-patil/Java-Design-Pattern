@@ -1,7 +1,6 @@
 package com.designpattern.behavioural.state;
 
 
-//state
 public class StatePattern {
 	static class FanWallControl {
 		private SpeedLevel current;
